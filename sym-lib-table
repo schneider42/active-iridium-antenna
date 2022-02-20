@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "lsf-kicad")(type "KiCad")(uri "${KIPRJMOD}/lsf-kicad-lib/lsf-kicad.kicad_sym")(options "")(descr ""))
+  (lib (name "LNA3030")(type "Legacy")(uri "${KIPRJMOD}/LNA3030/LNA3030.lib")(options "")(descr ""))
+  (lib (name "CONSMP001-SMD-G-T")(type "Legacy")(uri "${KIPRJMOD}/CONSMP001-SMD-G-T/CONSMP001-SMD-G-T.lib")(options "")(descr ""))
+)

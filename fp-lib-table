@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "lsf-kicad-lib")(type "KiCad")(uri "${KIPRJMOD}/lsf-kicad-lib/lsf-kicad-lib.pretty")(options "")(descr ""))
+  (lib (name "LNA3030")(type "KiCad")(uri "${KIPRJMOD}/LNA3030/LNA3030.pretty")(options "")(descr ""))
+  (lib (name "rosenberger-32K10K-400L5")(type "KiCad")(uri "${KIPRJMOD}/rosenberger-32K10K-400L5.pretty")(options "")(descr ""))
+  (lib (name "CONSMP001-SMD-G-T")(type "KiCad")(uri "${KIPRJMOD}/CONSMP001-SMD-G-T")(options "")(descr ""))
+)
